@@ -1,0 +1,7 @@
+{
+  "myDomain": "https://XXXXXXXXXXX.my.salesforce.com",
+  "apiVersion": "54.0",
+  "consumerKey": "XXXXXXXXXXXXXXXXXXXXXXXXXX",
+  "salesforceUsername": "test@test.com",
+  "salesforceAuthServer": "https://login.salesforce.com"
+}
