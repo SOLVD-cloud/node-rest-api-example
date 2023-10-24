@@ -9,5 +9,5 @@ async function main() {
   const salesforceApi = new SalesforceApi(authToken, 'Account', config.myDomain, config.apiVersion);
   const accountsResponse = await salesforceApi.fetchList();
 
-  console.log(accountsResponse);
+  console.log('>>> Account List Response: ', accountsResponse);
 }
